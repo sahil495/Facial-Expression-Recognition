@@ -11,7 +11,6 @@ We used transfer learning with **MobileNetV2** and **EfficientNetB0** models, wi
 - **Models Used**: MobileNetV2, EfficientNetB0  
 - **Framework**: TensorFlow / Keras  
 
----
 
 ## Model Performance
 
@@ -27,7 +26,6 @@ We used transfer learning with **MobileNetV2** and **EfficientNetB0** models, wi
 - **Recall**: 96.7%  
 - **F1 Score**: 96.6%
 
----
 
 ## Dataset Access
 
