@@ -3,7 +3,6 @@
 This project focuses on classifying facial expressions using deep learning.  
 We used transfer learning with **MobileNetV2** and **EfficientNetB0** models, with detailed notebooks for both.
 
----
 
 ## Highlights
 
